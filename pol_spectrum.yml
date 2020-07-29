@@ -1,0 +1,15 @@
+    political_left:
+      - link*
+      - anarch*
+      - kommun*
+      - sozialist*
+      - marx*
+      - autonom*
+      
+    political_right:
+      - rechts*
+      - national*
+      - volk*
+      - neo*
+      - Bürgerwehr
+      - reichs*
