@@ -180,38 +180,5 @@ textplot_keyness(tstat_keyness_left)
   mentions_fed <- c("left_mentions_fed" , "right_mentions_fed")
   dfmt_orientation_matrix_fed <- as.matrix(dfmt_orientation_fed)
   barplot(dfmt_orientation_matrix_fed)
-  
-  
-  
-  
 
-  
-
-  
-#TO-DO: 
-#       chi-quadrat-test auf signifikanz
-#       semantic networks
-#       test federal level alone
-#       test state level alone
-
-#unused code-----------------------------------------------------
-  #is_right <- rowSums(dfmt_orientation[,c("political_right")]) > 0
-  #is_left <- rowSums(dfmt_orientation[,c("political_left")]) > 0
-
-  #toks_right <- toks_vsb_nostop[is_right] 
-  #print(toks_right, max_ntoken = 100)
-
-  #toks_left <- toks_vsb_nostop[is_left] 
-  #print(toks_left, max_ntoken = 100)
-
-
-#keywords in context---------------------------------------------
-
-#keywords rechts
-  #kw_rechts <- kwic(toks_vsb_nostop, pattern =  'recht*')
-  #head(kw_rechts, 10)
-
-#keywords links
-  #kw_links <- kwic(toks_vsb_nostop, pattern =  'link*')
-  #head(kw_links, 10)
 
