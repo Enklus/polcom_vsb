@@ -7,7 +7,7 @@
   require(quanteda.textmodels)
 
 #set working directory
-  setwd("C:/Users/Well Met/Desktop/SE PolKomm Watanabe")
+  setwd("INSERT_YOUR_WD_HERE")
 
 
 #WITH FEDERAL  
