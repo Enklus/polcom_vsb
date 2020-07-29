@@ -1,7 +1,7 @@
 # polcom_vsb
 Hello!
 This is the depository with all files that were processed or created for the paper titled "The German 
-„Verfassungsschutzbericht“ , authored by Philipp Enkler.
+„Verfassungsschutzbericht - A quantitative analysis of textual data“ , authored by Philipp Enkler.
 The folder "doc" contains the documents that were subject to analysis.
 The file "script1_seminar_paper_enkler.R" contains all computation and analysis mentioned in the paper. If you want to run the code, please replace the argument in 
 line 10 with the folder which contains the whole directory downloaded from here.
